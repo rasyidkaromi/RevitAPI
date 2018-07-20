@@ -48,50 +48,13 @@ namespace RetrieveSelectedElements
                 message = e.Message;
                 return Result.Failed;
             }
-
-            ////////////////////////////////////
-            
-
-
-
-
-            
-
-            ////////////////////////////////////
             
             return Result.Succeeded;
 
         }//end Execute
 
-//        public ICollection<Element> CreateLogicAndFilter(Document document)
-//        {
-//            // Find all door instances in the project by finding all elements that both belong to the door 
-//            // category and are family instances.
-//            ElementClassFilter familyInstanceFilter = new ElementClassFilter(typeof(FamilyInstance));
-//
-//            // Create a category filter for Doors
-//            ElementCategoryFilter doorsCategoryfilter = new ElementCategoryFilter(BuiltInCategory.OST_Doors);
-//
-//            // Create a logic And filter for all Door FamilyInstances
-//            LogicalAndFilter doorInstancesFilter = new LogicalAndFilter(familyInstanceFilter, doorsCategoryfilter);
-//
-//            // Apply the filter to the elements in the active document
-//            FilteredElementCollector collector = new FilteredElementCollector(document);
-//            IList<Element> doors = collector.WherePasses(doorInstancesFilter).ToElements();
-//
-//            string tmp = "HALF LIFE TEST: ";
-//            foreach (Element item in doors)
-//            {
-//                tmp += "\n\t" + item.Name;
-//            }
-//
-//            TaskDialog.Show("Revit", tmp);
-//
-//            return doors;
-//        }
 
     }
-
     
 
 }
