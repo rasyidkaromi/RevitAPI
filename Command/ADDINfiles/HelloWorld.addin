@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+        <AddIn Type="Command">
+                <Assembly>C:\Samples\HelloWorld\HelloWorld\bin\Debug\HelloWorld.dll</Assembly>
+                <AddInId>239BD853-36E4-461f-9171-C5ACEDA4E721</AddInId>
+                <FullClassName>HelloWorld.Class1</FullClassName>
+                <Text>HelloWorld</Text> 
+                <VendorId>NAME</VendorId>
+                <VendorDescription>Your Company Information</VendorDescription> 
+        </AddIn>
+</RevitAddIns>

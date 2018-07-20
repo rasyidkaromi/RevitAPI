@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>RetrieveSelectedElements</Name>
+    <Assembly>C:\Samples\RetrieveSelectedElements\RetrieveSelectedElements\bin\Debug\RetrieveSelectedElements.dll</Assembly>
+    <AddInId>86BE44A6-C875-4CD2-90D7-C22B63FA6ECD</AddInId>
+    <Text>Retrieve Selected Element IDs</Text> 
+    <FullClassName>RetrieveSelectedElements.Document_Selection</FullClassName>
+    <VendorId>NAME</VendorId>
+    <VendorDescription>Your Company Information</VendorDescription>
+  </AddIn>
+</RevitAddIns>
