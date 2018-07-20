@@ -9,3 +9,12 @@ The year 2018 may vary depending on which version of Revit the user has. I do no
 If you are rather a beginner to file navigation as well, then you may notice that “ProgramData” does not appear in the “C:\” drive options. The reason some files/folders are automatically marked as hidden is because, unlike other data like your pictures and documents, they're not files that you should be changing, deleting, or moving around. These are often important operating system-related files.
 
 To open this folder simply type “C:\ProgramData” as the file path and click enter.
+
+Currently 4 ADDIN files:
+HelloWorld.addin
+
+CopyPasteGroup.addin
+
+RetrieveSelectedElements.addin
+
+RetrieveFilteredElements.addin
