@@ -12,7 +12,7 @@ An AddIn manifest is a file located in a specific location checked by Revit when
 
 C:\ProgramData\Autodesk\Revit\Addins\2018\HelloWorld.addin
 
-The year 2018 in the above file path may vary as well, depending on which version of Revit the user has. I do not recommend using a different year other than 2018 for these specific plug-ins due to the fact it may cause a myriad of errors/problems down the road (It may work fine as well, I dont fucking know, what am I a pantomath?).
+The year 2018 in the above file path may vary as well, depending on which version of Revit the user has. I do not recommend using a different year other than 2018 for these specific plug-ins due to the fact it may cause a myriad of errors/problems down the road (It may work fine as well, I dont know, what am I a pantomath?).
 
 If you are rather a beginner to file navigation as well, then you may notice that “ProgramData” does not appear in the “C:\” drive options. The reason some files/folders are automatically marked as hidden is because, unlike other data like your pictures and documents, they're not files that you should be changing, deleting, or moving around. These are often important operating system-related files.
 
