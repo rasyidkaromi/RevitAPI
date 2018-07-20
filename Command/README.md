@@ -26,5 +26,5 @@ CopyPasteGroup.addin - This will allow for you to copy and paste furniture from 
 
 RetrieveSelectedElements.addin - Select any number of elements in Revit then select this AddIn from the external tools drop down. This will return each element ID.
 
-RetrieveFilteredElements.addin - Select any number of elements in Revit then select this AddIn from the external tools drop down. This will return each element ID.
+RetrieveFilteredElements.addin - Select any number of elements in Revit then select this AddIn from the external tools drop down. This will return how many selected elements, then will filter only to walls, and return the selected walls.
 
