@@ -1,6 +1,8 @@
 # RevitAPI
 General Revit API Plug-ins
 
+I will be creating YouTube videos to go along with this code and will have the links posted as soon as I can. Hope I can help anyone in need. 
+
 Revit API Plug-ins:
 
 This is a repository for those learning the Revit API, Revit Macros, Revit Commands, and Revit Applications.
