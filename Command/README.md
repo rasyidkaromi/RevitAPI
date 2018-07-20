@@ -20,8 +20,7 @@ To open this folder simply type “C:\ProgramData” as the file path and click 
 
 Currently there are 4 AddIn files. Each can be accesed/used in Revit 2018 by navigating to the AddIns tab, then clicking external tools on the far left of the screen. External tools will have a drop down list of each AddIn command. Each AddIn functionality is descibed as below.
 
-HelloWorld.addin
-This will simply bring up a 
+HelloWorld.addin - This will simply bring up a 
 
 CopyPasteGroup.addin
 
