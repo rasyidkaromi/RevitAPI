@@ -1,0 +1,6 @@
+C:\Samples\CopyPasteGroup\CopyPasteGroup\bin\Debug\CopyPasteGroup.dll
+C:\Samples\CopyPasteGroup\CopyPasteGroup\bin\Debug\CopyPasteGroup.pdb
+C:\Samples\CopyPasteGroup\CopyPasteGroup\obj\Debug\CopyPasteGroup.csprojAssemblyReference.cache
+C:\Samples\CopyPasteGroup\CopyPasteGroup\obj\Debug\CopyPasteGroup.csproj.CoreCompileInputs.cache
+C:\Samples\CopyPasteGroup\CopyPasteGroup\obj\Debug\CopyPasteGroup.dll
+C:\Samples\CopyPasteGroup\CopyPasteGroup\obj\Debug\CopyPasteGroup.pdb
