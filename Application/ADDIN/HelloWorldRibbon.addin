@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>AddPanel</Name>
+    <Assembly>C:\Samples\AddPanel\AddPanel\bin\Debug\AddPanel.dll</Assembly>
+    <AddInId>604b1052-f742-4951-8576-c261d1993108</AddInId>
+    <FullClassName>Walkthrough.CsAddPanel</FullClassName>
+    <VendorId>NAME</VendorId>
+    <VendorDescription>Your Company Information</VendorDescription>
+  </AddIn>
+</RevitAddIns>
