@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>RetrieveFilteredElements</Name>
+    <Assembly>C:\Samples\RetrieveFilteredElements\RetrieveFilteredElements\bin\Debug\RetrieveFilteredElements.dll</Assembly>
+    <AddInId>8DD1FEC6-362A-45A6-8172-5709E9F4433D</AddInId>
+    <FullClassName>Retrieve Filtered Elements</FullClassName>
+    <VendorId>NAME</VendorId>
+    <VendorDescription>Your Company Information</VendorDescription>
+  </AddIn>
+</RevitAddIns>
