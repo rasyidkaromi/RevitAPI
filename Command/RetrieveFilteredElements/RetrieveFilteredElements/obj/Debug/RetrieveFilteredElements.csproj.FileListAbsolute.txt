@@ -1,0 +1,6 @@
+C:\Samples\RetrieveFilteredElements\RetrieveFilteredElements\bin\Debug\RetrieveFilteredElements.dll
+C:\Samples\RetrieveFilteredElements\RetrieveFilteredElements\bin\Debug\RetrieveFilteredElements.pdb
+C:\Samples\RetrieveFilteredElements\RetrieveFilteredElements\obj\Debug\RetrieveFilteredElements.csprojAssemblyReference.cache
+C:\Samples\RetrieveFilteredElements\RetrieveFilteredElements\obj\Debug\RetrieveFilteredElements.csproj.CoreCompileInputs.cache
+C:\Samples\RetrieveFilteredElements\RetrieveFilteredElements\obj\Debug\RetrieveFilteredElements.dll
+C:\Samples\RetrieveFilteredElements\RetrieveFilteredElements\obj\Debug\RetrieveFilteredElements.pdb
