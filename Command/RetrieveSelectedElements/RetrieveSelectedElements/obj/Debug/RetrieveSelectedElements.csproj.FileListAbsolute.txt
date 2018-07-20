@@ -1,0 +1,6 @@
+C:\Samples\RetrieveSelectedElements\RetrieveSelectedElements\bin\Debug\RetrieveSelectedElements.dll
+C:\Samples\RetrieveSelectedElements\RetrieveSelectedElements\bin\Debug\RetrieveSelectedElements.pdb
+C:\Samples\RetrieveSelectedElements\RetrieveSelectedElements\obj\Debug\RetrieveSelectedElements.csprojAssemblyReference.cache
+C:\Samples\RetrieveSelectedElements\RetrieveSelectedElements\obj\Debug\RetrieveSelectedElements.csproj.CoreCompileInputs.cache
+C:\Samples\RetrieveSelectedElements\RetrieveSelectedElements\obj\Debug\RetrieveSelectedElements.dll
+C:\Samples\RetrieveSelectedElements\RetrieveSelectedElements\obj\Debug\RetrieveSelectedElements.pdb
