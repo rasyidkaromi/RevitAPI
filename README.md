@@ -26,7 +26,7 @@ The next two are external AddIns, Commands and Applications. Commands are also m
 ## Setup Macros
 To create a Macro/Paste my code all you need to do is navigate to the manage tab in Revit, then on the far right click the macro manager icon. Once the window pops up there will be two tabs, Application and your project name. If you want the Macro to be project specific, then choose the project tab. If you want the add in to be for any application, choose the Application tab. Once here create a Module and choose your program language (C#). Then, with the new module highlighted, click macro and choose your program language(C#). You should now have a macro inside your module, from here click on your macro and then click edit. Copy and paste my code.
 
-## Setup Commands/Applications
+## Setup Command/Application
 When downloading these files, make sure the file path is correct due to the fact that the addin files depend on where the folders of code have been saved for each plugin.
 
 In my instance, the folders with c# code for Visual Studio are saved here:
