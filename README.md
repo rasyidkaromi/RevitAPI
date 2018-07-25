@@ -16,7 +16,7 @@ Studio inlcudes the .NET Framework 4.7.1 Version. This will be the version I am 
 ##### -- Recommended but unessential --
 [Revit 2018.2 SDK](https://www.autodesk.com/developer-network/platform-technologies/revit "Very Helpful :)") - (Software Development Kit) Is very helpful for debugging the Revit Database and understanding the elements and how their parameters operate.
 
-[ReSharper](https://www.jetbrains.com/student/ "Free for students") - Free for students and can be downloaded here.
+[ReSharper](https://www.jetbrains.com/student/ "Free for students") - Free for students and can be downloaded here. Visual studio extension.
 
 
 ## Setup Macros
