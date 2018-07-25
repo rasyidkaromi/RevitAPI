@@ -9,6 +9,6 @@ Before doing anything please install Revit 2018 as well as Microsoft Visual Stud
 Studio inlcudes the .NET Framework 4.7.1 Version. This will be the version I am using. I also have downloaded Resharper, a visual studio extension that is free for students, though this is not a requirement to have.
 
 ### Copyright
-Also, if you plan on using any or all of this code please check out the licence conditions, they are pretty easy to abide by. :)
+If you plan on using any or all of this code please check out the licence conditions, they are pretty easy to abide by. :)
 
 
