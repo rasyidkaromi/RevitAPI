@@ -9,11 +9,14 @@ Before doing anything please install Revit 2018 as well as Microsoft Visual Stud
 Studio inlcudes the .NET Framework 4.7.1 Version. This will be the version I am using. I also have downloaded Resharper, a visual studio extension that is free for students, though this is not a requirement to have.
 
 -- Essential --
+
 [Revit 2018](https://www.autodesk.com/education/free-software/revit "Free for students") - Free for students and can be downloaded here.
+
 [Microsoft Visual Studio Community 2017](https://visualstudio.microsoft.com/downloads/ "Free :)") - Free and a great software everyone should have.
 
 -- Recommended but unessential --
 [Revit 2018.2 SDK](https://www.autodesk.com/developer-network/platform-technologies/revit "Very Helpful :)") (Software Development Kit) Is very helpful for debugging the Revit Database and understanding the elements and its parameters operate.
+
 [ReSharper](https://www.jetbrains.com/student/ "Free for students") Free for students and can be downloaded here.
 
 
