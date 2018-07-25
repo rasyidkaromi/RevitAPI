@@ -20,6 +20,7 @@ Studio inlcudes the .NET Framework 4.7.1 Version. This will be the version I am 
 
 ## Macro VS Command/Application
 There are three options for the type of Add-ins in Revit, Macro, Command, and Application. First to create a Macro, you do not need any external software (like Visual Studio) and can create AddIns inside Revit. Macros are manually started and stopped, can either be stored specifically to a single project or to the computer.
+
 The next two are external AddIns, Commands and Applications. Commands are also manually started/stopped like a macro but are compiled into a DLL file. An example would be a user clicking a button, the button performs a function like create a 3D view from a selected region, then stops. Applications are different. An application starts with Revit and ends with Revit. They are continuously running and compiled into a DLL file as well. An example would be a ribbon toolbar that starts with Revit and is visible until Revit Closes.
 
 ## Setup Macros
