@@ -1,0 +1,6 @@
+C:\Samples\FilterRibbonButton\FilterRibbonButton\bin\Debug\FilterRibbonButton.dll
+C:\Samples\FilterRibbonButton\FilterRibbonButton\bin\Debug\FilterRibbonButton.pdb
+C:\Samples\FilterRibbonButton\FilterRibbonButton\obj\Debug\FilterRibbonButton.csproj.CoreCompileInputs.cache
+C:\Samples\FilterRibbonButton\FilterRibbonButton\obj\Debug\FilterRibbonButton.dll
+C:\Samples\FilterRibbonButton\FilterRibbonButton\obj\Debug\FilterRibbonButton.pdb
+C:\Samples\FilterRibbonButton\FilterRibbonButton\obj\Debug\FilterRibbonButton.csprojAssemblyReference.cache
