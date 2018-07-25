@@ -4,14 +4,23 @@ This inlcudes, but not limited to, Simple functioning add-ins, Adding new panels
 
 It will be updated as I continue to work on bits & pieces and I will try to comment as much as possible so new users will understand.
 
-### Software Needed
+## Software Needed
 Before doing anything please install Revit 2018 as well as Microsoft Visual Studio Community 2017. Make sure the download for Visual 
 Studio inlcudes the .NET Framework 4.7.1 Version. This will be the version I am using. I also have downloaded Resharper, a visual studio extension that is free for students, though this is not a requirement to have.
 
-### Setup Macros
+-- Essential --
+[Revit 2018](https://www.autodesk.com/education/free-software/revit "Free for students") - Free for students and can be downloaded here.
+[Microsoft Visual Studio Community 2017](https://visualstudio.microsoft.com/downloads/ "Free :)") - Free and a great software everyone should have.
+
+-- Recommended but unessential --
+[Revit 2018.2 SDK](https://www.autodesk.com/developer-network/platform-technologies/revit "Very Helpful :)") (Software Development Kit) Is very helpful for debugging the Revit Database and understanding the elements and its parameters operate.
+[ReSharper](https://www.jetbrains.com/student/ "Free for students") Free for students and can be downloaded here.
+
+
+## Setup Macros
 TBD
 
-### Setup Commands/Applications
+## Setup Commands/Applications
 When downloading these files, make sure the file path is correct due to the fact that the addin files depend on where the folders of code have been saved for each plugin.
 
 In my instance, the folders with c# code for Visual Studio are saved here:
@@ -34,7 +43,7 @@ To open this folder simply type “C:\ProgramData” as the file path and click 
 
 Currently there are 4 AddIn files. Each can be accessed/used in Revit 2018 by navigating to the AddIns tab, then clicking external tools on the far left of the screen. External tools will have a drop-down list of each AddIn command. Each AddIn functionality is described as below.
 
-### Copyright
+## Copyright
 If you plan on using any or all of this code please check out the licence conditions, they are pretty easy to abide by. :)
 
 
