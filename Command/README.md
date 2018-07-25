@@ -1,3 +1,5 @@
+# Setup Commands
+
 When downloading these files, make sure the file path is correct due to the fact that the addin files depend on where the folders of code have been saved for each plugin.
 
 In my instance, the folders with c# code for Visual Studio are saved here:
