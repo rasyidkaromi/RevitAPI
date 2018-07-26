@@ -11,7 +11,7 @@ Studio inlcudes the .NET Framework 4.7.1 Version. This will be the version I am 
 ##### -- Essential --
 [Revit 2018](https://www.autodesk.com/education/free-software/revit "Free for students") - Free for students.
 
-[Microsoft Visual Studio Community 2017](https://visualstudio.microsoft.com/downloads/ "Free :)") - Free/great software everyone should have.
+[Microsoft Visual Studio Community 2017](https://visualstudio.microsoft.com/downloads/ "Free :)") - Free for everyone except people who think Halo 4 and 5 were good games.
 
 ##### -- Recommended but unessential --
 [Revit 2018.2 SDK](https://www.autodesk.com/developer-network/platform-technologies/revit "Very Helpful :)") - (Software Development Kit) Is very helpful for debugging the Revit Database and understanding the elements and how their parameters operate.
