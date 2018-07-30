@@ -6,7 +6,7 @@ It will be updated as I continue to work on bits & pieces and I will try to comm
 
 ## Software Needed
 Before doing anything please install Revit 2018 as well as Microsoft Visual Studio Community 2017. Make sure the download for Visual 
-Studio inlcudes the .NET Framework 4.7.1 Version. This will be the version I am using. I also have downloaded Resharper, a visual studio extension that is free for students, though this is not a requirement to have.
+Studio inlcudes the .NET Framework 4.7.1 Version. This will be the version I am using. I also have the Revit Sodtware Development Kit, as well as Resharper, a visual studio extension that is free for students, though these are not a requirement to have.
 
 ##### -- Essential --
 [Revit 2018](https://www.autodesk.com/education/free-software/revit "Free for students") - Free for students.
