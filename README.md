@@ -24,7 +24,7 @@ There are three options for the type of Add-ins in Revit, Macro, Command, and Ap
 The next two are external AddIns, Commands and Applications. Commands are also manually started/stopped like a macro but are compiled into a DLL file. An example would be a user clicking a button, the button performs a function like create a 3D view from a selected region, then stops. Applications are different. An application starts with Revit and ends with Revit. They are continuously running and compiled into a DLL file as well. An example would be a ribbon toolbar that starts with Revit and is visible until Revit Closes.
 
 ## Notice
-The file path that all of these programs use spawn from my “C:/Samples/” Folder. For someone to copy/download these files, they must paste them into a C drive samples folder. For example, if I wanted to add the Command “HelloWorld”, I would NOT add it like this “C:\Command\HelloWorld\\...”.
+The file path that all of these programs use spawn from my “C:\Samples\” Folder. For someone to copy/download these files, they must paste them into a C drive samples folder. For example, if I wanted to add the Command “HelloWorld”, I would NOT add it like this “C:\Command\HelloWorld\\...”.
 The CORRECT way would be like this, “C:\Samples\HelloWorld\\...”.
 The same goes for applications as well.
 
