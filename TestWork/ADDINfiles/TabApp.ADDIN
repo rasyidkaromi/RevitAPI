@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>TabApp</Name>
+    <Assembly>C:\Samples\TagByCatVersions\TagByCatVersions\bin\Debug\TagByCatVersions.dll</Assembly>
+    <AddInId>2B18CDCC-2E45-43E8-BDFB-93D0F3C9340A</AddInId>
+    <FullClassName>TagByCatVersions.TabApp</FullClassName>
+    <VendorId>NAME</VendorId>
+    <VendorDescription>Your Company Information</VendorDescription>
+  </AddIn>
+</RevitAddIns>
+

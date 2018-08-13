@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>TagByCat2</Name>
+    <Assembly>C:\Samples\TagByCat2\TagByCat2\bin\Debug\TagByCat2.dll</Assembly>
+    <AddInId>A842AEA9-0C7F-4F68-AD34-5D9DAEB3169B</AddInId>
+    <FullClassName>TagByCat2.TagByCategory</FullClassName>
+    <VendorId>NAME</VendorId>
+    <VendorDescription>Your Company Information</VendorDescription>
+  </AddIn>
+</RevitAddIns>
+
