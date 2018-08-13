@@ -28,6 +28,8 @@ The file path that all of these programs use spawn from my “C:/Samples/” Fol
 The CORRECT way would be like this, “C:\Samples\HelloWorld\...”.
 The same goes for applications as well.
 
+The way around this would be to edit the code inside each .cs file so all the file paths match according to your computer.
+
 ## Setup Macros
 To create a Macro/Paste my code all you need to do is navigate to the manage tab in Revit, then on the far right click the macro manager icon. Once the window pops up there will be two tabs, Application and your project name. If you want the Macro to be project specific, then choose the project tab. If you want the add in to be for any application, choose the Application tab. Once here create a Module and choose your program language (C#). Then, with the new module highlighted, click macro and choose your program language(C#). You should now have a macro inside your module, from here click on your macro and then click edit. Copy and paste my code.
 
