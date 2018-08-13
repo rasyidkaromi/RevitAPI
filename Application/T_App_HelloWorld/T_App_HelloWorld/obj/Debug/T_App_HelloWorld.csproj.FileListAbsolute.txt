@@ -1,0 +1,6 @@
+C:\Samples\T_App_HelloWorld\T_App_HelloWorld\bin\Debug\T_App_HelloWorld.dll
+C:\Samples\T_App_HelloWorld\T_App_HelloWorld\bin\Debug\T_App_HelloWorld.pdb
+C:\Samples\T_App_HelloWorld\T_App_HelloWorld\obj\Debug\T_App_HelloWorld.csprojAssemblyReference.cache
+C:\Samples\T_App_HelloWorld\T_App_HelloWorld\obj\Debug\T_App_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Samples\T_App_HelloWorld\T_App_HelloWorld\obj\Debug\T_App_HelloWorld.dll
+C:\Samples\T_App_HelloWorld\T_App_HelloWorld\obj\Debug\T_App_HelloWorld.pdb
