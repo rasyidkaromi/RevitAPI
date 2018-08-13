@@ -50,6 +50,6 @@ To open this folder simply type “C:\ProgramData” as the file path and click 
 Currently there are X AddIn files. Each can be accessed/used in Revit 2018 by navigating to the AddIns tab, then clicking external tools on the far left of the screen. External tools will have a drop-down list of each AddIn command.
 
 ## Copyright
-If you plan on using any or all of this code please check out the licence conditions, they are pretty easy to abide by.
+--
 
 
