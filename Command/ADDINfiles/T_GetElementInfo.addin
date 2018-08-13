@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>T_GetElementInfo</Name>
+    <Assembly>C:\Samples\T_GetElementInfo\T_GetElementInfo\bin\Debug\T_GetElementInfo.dll</Assembly>
+    <AddInId>D39FEF83-3538-4FCD-871A-9CF29FD39948</AddInId>
+    <Text>Get Element Info</Text> 
+    <FullClassName>T_GetElementInfo.Class1</FullClassName>
+    <VendorId>NAME</VendorId>
+    <VendorDescription>Your Company Information</VendorDescription>
+  </AddIn>
+</RevitAddIns>
