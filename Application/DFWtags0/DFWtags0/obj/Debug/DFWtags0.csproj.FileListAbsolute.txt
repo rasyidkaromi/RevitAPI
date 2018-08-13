@@ -1,0 +1,5 @@
+C:\Samples\DFWtags0\DFWtags0\bin\Debug\DFWtags0.dll
+C:\Samples\DFWtags0\DFWtags0\bin\Debug\DFWtags0.pdb
+C:\Samples\DFWtags0\DFWtags0\obj\Debug\DFWtags0.csproj.CoreCompileInputs.cache
+C:\Samples\DFWtags0\DFWtags0\obj\Debug\DFWtags0.dll
+C:\Samples\DFWtags0\DFWtags0\obj\Debug\DFWtags0.pdb
