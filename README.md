@@ -49,6 +49,9 @@ To open this folder simply type “C:\ProgramData” as the file path and click 
 
 Currently there are X AddIn files. Each can be accessed/used in Revit 2018 by navigating to the AddIns tab, then clicking external tools on the far left of the screen. External tools will have a drop-down list of each AddIn command.
 
+## References
+References are a big part to coding in visual studio to keep errors at bay. Under the Solution Explorer window, right click reference, then click add reference. From here you usually will need 5 basic references that I add when starting every new project. Add as follows: RevitAPI, RevitAPIUI, PresentationCore, System.Xaml, and WindowsBase.
+
 ## Copyright
 --
 
