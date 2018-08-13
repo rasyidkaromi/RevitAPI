@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>T_App_HelloWorld</Name>
+    <Assembly>C:\Samples\T_App_HelloWorld\T_App_HelloWorld\bin\Debug\T_App_HelloWorld.dll</Assembly>
+    <AddInId>EE937B7D-1D4D-4CFF-86B2-B4929DB7BECF</AddInId>
+    <FullClassName>T_App_HelloWorld.Class1</FullClassName>
+    <VendorId>NAME</VendorId>
+    <VendorDescription>Your Company Information</VendorDescription>
+  </AddIn>
+</RevitAddIns>
+
