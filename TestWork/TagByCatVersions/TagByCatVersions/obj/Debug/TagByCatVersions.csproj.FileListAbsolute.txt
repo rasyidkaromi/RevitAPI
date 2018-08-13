@@ -1,0 +1,6 @@
+C:\Samples\TagByCatVersions\TagByCatVersions\bin\Debug\TagByCatVersions.dll
+C:\Samples\TagByCatVersions\TagByCatVersions\bin\Debug\TagByCatVersions.pdb
+C:\Samples\TagByCatVersions\TagByCatVersions\obj\Debug\TagByCatVersions.csproj.CoreCompileInputs.cache
+C:\Samples\TagByCatVersions\TagByCatVersions\obj\Debug\TagByCatVersions.dll
+C:\Samples\TagByCatVersions\TagByCatVersions\obj\Debug\TagByCatVersions.pdb
+C:\Samples\TagByCatVersions\TagByCatVersions\obj\Debug\TagByCatVersions.csprojAssemblyReference.cache

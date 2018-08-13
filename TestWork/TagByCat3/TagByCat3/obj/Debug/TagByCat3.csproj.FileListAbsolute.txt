@@ -1,0 +1,6 @@
+C:\Samples\TagByCat3\TagByCat3\bin\Debug\TagByCat3.dll
+C:\Samples\TagByCat3\TagByCat3\bin\Debug\TagByCat3.pdb
+C:\Samples\TagByCat3\TagByCat3\obj\Debug\TagByCat3.csproj.CoreCompileInputs.cache
+C:\Samples\TagByCat3\TagByCat3\obj\Debug\TagByCat3.dll
+C:\Samples\TagByCat3\TagByCat3\obj\Debug\TagByCat3.pdb
+C:\Samples\TagByCat3\TagByCat3\obj\Debug\TagByCat3.csprojAssemblyReference.cache

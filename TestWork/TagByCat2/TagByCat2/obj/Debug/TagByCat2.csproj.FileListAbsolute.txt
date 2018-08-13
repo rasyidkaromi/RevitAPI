@@ -1,0 +1,5 @@
+C:\Samples\TagByCat2\TagByCat2\obj\Debug\TagByCat2.csproj.CoreCompileInputs.cache
+C:\Samples\TagByCat2\TagByCat2\bin\Debug\TagByCat2.dll
+C:\Samples\TagByCat2\TagByCat2\bin\Debug\TagByCat2.pdb
+C:\Samples\TagByCat2\TagByCat2\obj\Debug\TagByCat2.dll
+C:\Samples\TagByCat2\TagByCat2\obj\Debug\TagByCat2.pdb
