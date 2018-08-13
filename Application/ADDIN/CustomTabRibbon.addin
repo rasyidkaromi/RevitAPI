@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>CustomTabRibbon</Name>
+    <Assembly>C:\Samples\CustomTabRibbon\CustomTabRibbon\bin\Debug\CustomTabRibbon.dll</Assembly>
+    <AddInId>FFE77B02-4477-4037-8F7D-5C49F66AC5F1</AddInId>
+    <FullClassName>CustomTabRibbon.Class1</FullClassName>
+    <VendorId>NAME</VendorId>
+    <VendorDescription>Your Company Information</VendorDescription>
+  </AddIn>
+</RevitAddIns>
+
