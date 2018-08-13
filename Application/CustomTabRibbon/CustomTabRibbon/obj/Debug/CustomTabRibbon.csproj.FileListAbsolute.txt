@@ -1,0 +1,6 @@
+C:\Samples\CustomTabRibbon\CustomTabRibbon\bin\Debug\CustomTabRibbon.dll
+C:\Samples\CustomTabRibbon\CustomTabRibbon\bin\Debug\CustomTabRibbon.pdb
+C:\Samples\CustomTabRibbon\CustomTabRibbon\obj\Debug\CustomTabRibbon.csproj.CoreCompileInputs.cache
+C:\Samples\CustomTabRibbon\CustomTabRibbon\obj\Debug\CustomTabRibbon.dll
+C:\Samples\CustomTabRibbon\CustomTabRibbon\obj\Debug\CustomTabRibbon.pdb
+C:\Samples\CustomTabRibbon\CustomTabRibbon\obj\Debug\CustomTabRibbon.csprojAssemblyReference.cache
