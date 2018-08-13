@@ -18,5 +18,5 @@ for creating in Add-ins for Revit 2018:
 [Learn The Revit API](https://www.youtube.com/watch?v=PYDS8TESRis "Very Long...")
 Video overview of the Revit API, how to get started, live macro demonstration, and sample code to accomplish various tasks. There is a LOT of great information pertaining to how/why we want to create add-ins.
 
-[Autodesk forums](https://forums.autodesk.com/?interaction_style=forum"Helpful :)")
+[Autodesk forums](https://forums.autodesk.com/?interaction_style=forum "Helpful :)")
 I have sometimes searched through these when I have questions over the Revit API or just generalized questions over Revit.
