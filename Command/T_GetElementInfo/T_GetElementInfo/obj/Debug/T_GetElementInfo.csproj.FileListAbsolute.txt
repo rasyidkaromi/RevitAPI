@@ -1,0 +1,11 @@
+C:\Samples\T_GetElementInfo\T_GetElementInfo\T_GetElementInfo\bin\Debug\T_GetElementInfo.dll
+C:\Samples\T_GetElementInfo\T_GetElementInfo\T_GetElementInfo\bin\Debug\T_GetElementInfo.pdb
+C:\Samples\T_GetElementInfo\T_GetElementInfo\T_GetElementInfo\obj\Debug\T_GetElementInfo.csprojAssemblyReference.cache
+C:\Samples\T_GetElementInfo\T_GetElementInfo\T_GetElementInfo\obj\Debug\T_GetElementInfo.csproj.CoreCompileInputs.cache
+C:\Samples\T_GetElementInfo\T_GetElementInfo\T_GetElementInfo\obj\Debug\T_GetElementInfo.dll
+C:\Samples\T_GetElementInfo\T_GetElementInfo\T_GetElementInfo\obj\Debug\T_GetElementInfo.pdb
+C:\Samples\T_GetElementInfo\T_GetElementInfo\bin\Debug\T_GetElementInfo.dll
+C:\Samples\T_GetElementInfo\T_GetElementInfo\bin\Debug\T_GetElementInfo.pdb
+C:\Samples\T_GetElementInfo\T_GetElementInfo\obj\Debug\T_GetElementInfo.csproj.CoreCompileInputs.cache
+C:\Samples\T_GetElementInfo\T_GetElementInfo\obj\Debug\T_GetElementInfo.dll
+C:\Samples\T_GetElementInfo\T_GetElementInfo\obj\Debug\T_GetElementInfo.pdb
